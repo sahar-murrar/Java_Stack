@@ -1,0 +1,2 @@
+module objectMasterPart1 {
+}
