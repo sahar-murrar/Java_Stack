@@ -1,0 +1,29 @@
+main {
+	margin: 0px auto;
+	width: 550px;
+	height: 370px;
+}
+
+h2 {
+	border-bottom: 2px solid black;
+	width: 220px;
+}
+
+#head {
+	border: 2px solid black;
+	margin: 55px;
+	padding: 20px;
+}
+
+.box-shadow {
+	box-shadow: 5px 7px
+}
+
+#container {
+	display: flex;
+	justify-content: space-between;
+}
+
+p {
+	font-weight: bold;
+}
