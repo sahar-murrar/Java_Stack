@@ -1,0 +1,12 @@
+body{
+	margin-left:500px;
+	margin-top:200px;
+	
+}
+.error{
+	color: red;
+	font-weight: bold;
+}
+button{
+	margin-top:15px;
+	}
